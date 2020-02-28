@@ -23,3 +23,12 @@
 
 0,30  0-6 * * 1-5   /usr/local/bin/python3.6 /root/J225_J400_s/JS225_s.py
 0,30  0-6 * * 1-5   /usr/local/bin/python3.6 /root/J225_J400_s/JS400_s.py
+
+
+
+
+2020.2.28
+
+1.导出数据为excel文件
+2.自动发送邮件
+3.每个月执行一次
